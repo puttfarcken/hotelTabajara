@@ -4,5 +4,5 @@ Ativiade Hotel Tabajara
 
 Grupo:
 
-Teodoro Wilhelm Puttfarcken\n
+Teodoro Wilhelm Puttfarcken<br />
 José Antônio Dias Cacciatore
